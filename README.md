@@ -1,1 +1,35 @@
-# Sistemi_a_combustione
+# Sistemi a Combustione (Combustion Systems)
+
+[![Made with python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-blue?logo=python&amp;logoColor=white)](https://python.org)
+[![Jupyter friendly](https://img.shields.io/badge/Jupyter%20Lab-3.x-orange?logo=jupyter&logoColor=white)](https://jupyter.org)
+[![License - GNU AGPLv3](https://img.shields.io/badge/license-GNU%20GPLv3-green)](/LICENSE)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/paolodeangelis/Sistemi_a_combustione/main.svg)](https://results.pre-commit.ci/latest/github/paolodeangelis/Sistemi_a_combustione/main)
+
+
+[![OS - Linux](https://img.shields.io/badge/OS-Linux-lightgray?logo=linux&amp;logoColor=white)](https://www.linux.org/)
+[![OS - Windows](https://img.shields.io/badge/OS-Windows-lightgray?logo=windows&amp;logoColor=white)](http://microsoft.com/windows)
+[![OS - macOS](https://img.shields.io/badge/OS-macOS-lightgray?logo=macOS&amp;logoColor=white)](https://www.apple.com/macos/)
+
+## Machine Learning (ML) & Neural Network (NN) Labs
+
+### [1. Hands-on Python 3](1-Hands-on_Python3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1-Hands-on_Python3.ipynb)
+
+This lab provides a brief introduction to Python coding and scripting, introduces working environments, and offers an overview of libraries for engineers with practical examples.
+
+
+### [2. Reynolds and velocity profiles](2-NN_Reynolds.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2_NN_Reynolds.ipynb)
+
+TODO
+
+<hr width="100%">
+<p align="right">
+    <em><strong>Acknowledgements:</strong></em>
+    &nbsp;
+    <a target="_blank" href="https://areeweb.polito.it/ricerca/small/">
+        <img style="height:40px" src="https://github.com/paolodeangelis/Sistemi_a_combustione/raw/main/assets/img/logo.png" alt="SMALL site" >
+    </a>
+    &nbsp;
+    <a target="_blank" href="https://www.polito.it/">
+        <img style="height:40px" src="https://github.com/paolodeangelis/Sistemi_a_combustione/raw/main/assets/img/polito_logo.png" alt="POLITO site" >
+    </a>
+</p>
