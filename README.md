@@ -21,9 +21,13 @@ This lab provides a brief introduction to Python coding and scripting, introduce
 * [1.2 Hands-on Python 3 (Part 2)](1.2-Hands-on_Python3_P2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1.2-Hands-on_Python3_P2.ipynb)
 This lab provides a brief introduction to Python coding and scripting, introduces working environments, and offers an overview of libraries for engineers with practical examples.
 
-### [2. Reynolds and velocity profiles](2-NN_Reynolds.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2_NN_Reynolds.ipynb)
+### LAB 2: Hands-on Neura Network modeling
 
-TODO
+* [2.1 Neural Network for Reynolds and velocity profiles (Part 1)](2.1-NN_Reynolds_P1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.1-NN_Reynolds_P1.ipynb)
+
+
+* [2.2 Neural Network for Reynolds and velocity profiles (Part 2)](2.2-NN_Reynolds_P2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.2-NN_Reynolds_P2.ipynb)
+
 
 <hr width="100%">
 <p align="right">
