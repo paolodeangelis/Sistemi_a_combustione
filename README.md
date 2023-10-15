@@ -2,6 +2,7 @@
 
 [![Made with python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-blue?logo=python&amp;logoColor=white)](https://python.org)
 [![Jupyter friendly](https://img.shields.io/badge/Jupyter%20Lab-3.x-orange?logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License - GNU AGPLv3](https://img.shields.io/badge/license-GNU%20GPLv3-green)](/LICENSE)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/paolodeangelis/Sistemi_a_combustione/main.svg)](https://results.pre-commit.ci/latest/github/paolodeangelis/Sistemi_a_combustione/main)
 
@@ -10,12 +11,15 @@
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-lightgray?logo=windows&amp;logoColor=white)](http://microsoft.com/windows)
 [![OS - macOS](https://img.shields.io/badge/OS-macOS-lightgray?logo=macOS&amp;logoColor=white)](https://www.apple.com/macos/)
 
-## Machine Learning (ML) & Neural Network (NN) Labs
+## Neural Network (NN) Labs
 
-### [1. Hands-on Python 3](1-Hands-on_Python3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1-Hands-on_Python3.ipynb)
+### LAB 1: Hands-on Python 3
 
+* [1.1 Hands-on Python 3 (Part 1)](1.1-Hands-on_Python3_P1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1.1-Hands-on_Python3_P1.ipynb)
+This lab provides a brief introduction to Python coding and scripting, introduces working environments, variable types, and code-flow control statements (e.g., if-then, for, while, etc.), and explores the Python library ecosystem.
+
+* [1.2 Hands-on Python 3 (Part 2)](1.2-Hands-on_Python3_P2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1.2-Hands-on_Python3_P2.ipynb)
 This lab provides a brief introduction to Python coding and scripting, introduces working environments, and offers an overview of libraries for engineers with practical examples.
-
 
 ### [2. Reynolds and velocity profiles](2-NN_Reynolds.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2_NN_Reynolds.ipynb)
 
