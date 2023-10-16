@@ -15,25 +15,31 @@
 
 ### LAB 1: Hands-on Python 3
 
-* [1.1 Hands-on Python 3 (Part 1)](1.1-Hands-on_Python3_P1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1.1-Hands-on_Python3_P1.ipynb)
+* [1.1 Hands-on Python 3 (Part 1)](1.1-Hands-on_Python3_P1.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1.1-Hands-on_Python3_P1.ipynb) ![100%](https://geps.dev/progress/100)
 This lab provides a brief introduction to Python coding and scripting, introduces working environments, variable types, and code-flow control statements (e.g., if-then, for, while, etc.), and explores the Python library ecosystem.
 
-* [1.2 Hands-on Python 3 (Part 2)](1.2-Hands-on_Python3_P2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1.2-Hands-on_Python3_P2.ipynb)
+* [1.2 Hands-on Python 3 (Part 2)](1.2-Hands-on_Python3_P2.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1.2-Hands-on_Python3_P2.ipynb) ![100%](https://geps.dev/progress/100)
 This lab provides a brief introduction to Python coding and scripting, introduces working environments, and offers an overview of libraries for engineers with practical examples.
 
 ### LAB 2: Hands-on Machine Learning (ML): Deep Neural Networks (DNN)
 
-* [2.1 Neural Network for Reynolds and velocity profiles (Part 1)](2.1-NN_Reynolds_P1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.1-NN_Reynolds_P1.ipynb)
+* [2.1 Neural Network for Reynolds and velocity profiles (Part 1)](2.1-NN_Reynolds_P1.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.1-NN_Reynolds_P1.ipynb) ![90%](https://geps.dev/progress/90)
 
 
-* [2.2 Neural Network for Reynolds and velocity profiles (Part 2)](2.2-NN_Reynolds_P2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.2-NN_Reynolds_P2.ipynb)
+* [2.2 Neural Network for Reynolds and velocity profiles (Part 2)](2.2-NN_Reynolds_P2.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.2-NN_Reynolds_P2.ipynb) ![50%](https://geps.dev/progress/50)
 
 ### LAB 3: Hands-on Machine Learning (ML): Convolutional Neural Networks (CNN)
 
+![10%](https://geps.dev/progress/10)
 Coming soon ...
 
 ### LAB 4: Hands-on Machine Learning (ML): Reinforcement Learning (RL)
 
+![10%](https://geps.dev/progress/10)
 Coming soon ...
 
 
