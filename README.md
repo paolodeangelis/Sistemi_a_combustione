@@ -21,16 +21,18 @@ This lab provides a brief introduction to Python coding and scripting, introduce
 
 * [1.2 Hands-on Python 3 (Part 2)](1.2-Hands-on_Python3_P2.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/1.2-Hands-on_Python3_P2.ipynb) ![100%](https://geps.dev/progress/100)
-This lab provides a brief introduction to Python coding and scripting, introduces working environments, and offers an overview of libraries for engineers with practical examples.
+This lab provides a brief introduction and overview of libraries `numpy`, `scipy`, `matplotlib`, `padas` and `scikit-learn` with 5 possible engineering problems.
 
 ### LAB 2: Hands-on Machine Learning (ML): Deep Neural Networks (DNN)
 
 * [2.1 Neural Network for Reynolds and velocity profiles (Part 1)](2.1-NN_Reynolds_P1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.1-NN_Reynolds_P1.ipynb) ![90%](https://geps.dev/progress/90)
-
+Step-by-step machine learning project to study water flow through a channel using a neural network. In this first part, we focus on designing a binary classification model to identify the turbulent regime of the flow from the velocity profile.
 
 * [2.2 Neural Network for Reynolds and velocity profiles (Part 2)](2.2-NN_Reynolds_P2.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.2-NN_Reynolds_P2.ipynb) ![50%](https://geps.dev/progress/50)
+Coming soon ...
+
 
 ### LAB 3: Hands-on Machine Learning (ML): Convolutional Neural Networks (CNN)
 
