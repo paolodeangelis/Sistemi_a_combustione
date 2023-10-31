@@ -37,7 +37,7 @@ Step-by-step machine learning project to study water flow through a channel usin
 
 #### [2.2 Neural Network for Reynolds and velocity profiles (Part 2)](2.2-NN_Reynolds_P2.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.2-NN_Reynolds_P2.ipynb)
-![50%](https://geps.dev/progress/50)
+![100%](https://geps.dev/progress/100)
 
 Step-by-step machine learning project to study water flow through a channel using a neural network. In this second part, our primary focus is on designing a neural network regression model to determine the turbulent regime ($\mathrm{Re}$ number) of the flow based on the velocity profile.
 
