@@ -31,13 +31,18 @@ Step-by-step machine learning project to study water flow through a channel usin
 
 * [2.2 Neural Network for Reynolds and velocity profiles (Part 2)](2.2-NN_Reynolds_P2.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/2.2-NN_Reynolds_P2.ipynb) ![50%](https://geps.dev/progress/50)
-Coming soon ...
+Step-by-step machine learning project to study water flow through a channel using a neural network. In this second part, our primary focus is on designing a neural network regression model to determine the turbulent regime ($\mathrm{Re}$ number) of the flow based on the velocity profile.
 
 
 ### LAB 3: Hands-on Machine Learning (ML): Convolutional Neural Networks (CNN)
 
-![10%](https://geps.dev/progress/10)
-Coming soon ...
+* [3.1 Convolutional Neural Network model - an introduction (Part 1)](3.1-CNN_Intro_P1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/3.1-CNN_Intro_P1.ipynb) ![10%](https://geps.dev/progress/10)
+Coming soon ..
+
+* [3.2 Convolutional Neural Network model - an introduction (Part 2)](3.2-CNN_Intro_P2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/3.2-CNN_Intro_P2.ipynb) ![10%](https://geps.dev/progress/10)
+Coming soon ..
 
 ### LAB 4: Hands-on Machine Learning (ML): Reinforcement Learning (RL)
 
