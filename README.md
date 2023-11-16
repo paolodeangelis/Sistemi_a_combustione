@@ -45,19 +45,28 @@ Step-by-step machine learning project to study water flow through a channel usin
 ### LAB 3: Hands-on Machine Learning (ML): Convolutional Neural Networks (CNN)
 
 #### [3.1 Convolutional Neural Network model - an introduction (Part 1)](3.1-CNN_Intro_P1.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/3.1-CNN_Intro_P1.ipynb) ![10%](https://geps.dev/progress/10)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/3.1-CNN_Intro_P1.ipynb) ![100%](https://geps.dev/progress/100)
 
-Coming soon ..
+Step-by-step machine learning project to classify images using a neural network. In this first part, we are going to test a Fully Connected Neural Network on the MNIST handwritten digit and MNIST fashion datasets, showing the disadvantages of this method.
+
 
 #### [3.2 Convolutional Neural Network model - an introduction (Part 2)](3.2-CNN_Intro_P2.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/3.2-CNN_Intro_P2.ipynb) ![10%](https://geps.dev/progress/10)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/3.2-CNN_Intro_P2.ipynb) ![100%](https://geps.dev/progress/100)
 
-Coming soon ..
+Step-by-step machine learning project to classify images using a neural network. In this second part, we are going to test a Convolutional Neural Network on the MNIST handwritten digit database, showing the advantages of this method.
 
 ### LAB 4: Hands-on Machine Learning (ML): Reinforcement Learning (RL)
 
-![10%](https://geps.dev/progress/10)
-Coming soon ...
+#### [4.1 Reinforcement Learning - an introduction (Part 1)](4.1-Reinforcement_Learning_P1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/4.1-Reinforcement_Learning_P1.ipynb) ![10%](https://geps.dev/progress/10)
+
+Coming soon ..
+
+#### [4.2 Reinforcement Learning - an introduction (Part 2)](4.2-Reinforcement_Learning_P2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/4.2-Reinforcement_Learning_P2.ipynb) ![10%](https://geps.dev/progress/10)
+
+Coming soon ..
+
 
 
 <hr width="100%">
