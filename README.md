@@ -58,14 +58,13 @@ Step-by-step machine learning project to classify images using a neural network.
 ### LAB 4: Hands-on Machine Learning (ML): Reinforcement Learning (RL)
 
 #### [4.1 Reinforcement Learning - an introduction (Part 1)](4.1-Reinforcement_Learning_P1.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/4.1-Reinforcement_Learning_P1.ipynb) ![10%](https://geps.dev/progress/10)
-
-Coming soon ..
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/4.1-Reinforcement_Learning_P1.ipynb) ![100%](https://geps.dev/progress/100)
+Tic Tac Toe Model
 
 #### [4.2 Reinforcement Learning - an introduction (Part 2)](4.2-Reinforcement_Learning_P2.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/4.2-Reinforcement_Learning_P2.ipynb) ![10%](https://geps.dev/progress/10)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/Sistemi_a_combustione/blob/main/4.2-Reinforcement_Learning_P2.ipynb) ![100%](https://geps.dev/progress/100)
 
-Coming soon ..
+Frozen Lake & Balckjack Models
 
 
 
