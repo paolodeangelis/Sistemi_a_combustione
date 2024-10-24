@@ -163,3 +163,4 @@ data/lab3/test
 data/lab3/test/*
 data/lab3/train
 data/lab3/train/*
+.temp.ipynb
